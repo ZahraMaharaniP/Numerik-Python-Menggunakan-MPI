@@ -22,7 +22,7 @@ Menjelaskan bagaimana eksekusi numerik python pada MPI Cluster melalui Ubuntu De
 ![image](https://github.com/ZahraMaharaniP/Numerik-Python-Menggunakan-MPI/assets/149281915/a339cdc1-77fd-4ea2-882c-986fc7cf6727)
 
 ## 2.3 Masukkan Program numerik.py kedalam File yang Sudah Dibuat
-![image](https://github.com/ZahraMaharaniP/Numerik-Python-Menggunakan-MPI/assets/149281915/65c09fe8-9101-4a63-86d0-6847726690d0)
+![image](https://github.com/ZahraMaharaniP/Numerik-Python-Menggunakan-MPI/assets/149281915/9b95742f-32db-4fc2-9cd1-20f33f44bf37)
 
 # 3. Perbedaan Waktu Eksekusi pada Multinode dan SingleNode
 ## 3.1 MultiNode
