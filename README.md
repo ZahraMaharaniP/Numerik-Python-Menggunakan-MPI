@@ -31,6 +31,6 @@ Menjelaskan bagaimana eksekusi numerik python pada MPI Cluster melalui Ubuntu De
 ![image](https://github.com/ZahraMaharaniP/Numerik-Python-Menggunakan-MPI/assets/149281915/b44fc586-04e2-4bb7-ae75-f2c5400e9754)
 
 ## 3.2 SingleNode
-python3 numerik.py
+`python3 numerik.py`
 
 ![image](https://github.com/ZahraMaharaniP/Numerik-Python-Menggunakan-MPI/assets/149281915/7d44bae3-4bb3-4a2e-9f3e-9a0cb080a261)
